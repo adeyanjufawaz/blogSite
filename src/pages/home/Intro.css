@@ -1,0 +1,5 @@
+.intro__section{
+    background:linear-gradient(to left,rgba(0,0,0,.5),rgba(0,0,0,.4)), url("../../img/think.png") ;
+    background-repeat:no-repeat;
+    background-size:cover;
+}
